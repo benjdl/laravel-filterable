@@ -1,5 +1,5 @@
 {
-    "name": "benjdl/laravel-filterable",
+    "name": "kyslik/laravel-filterable",
     "description": "Using URL query strings to filter Eloquent queries.",
     "keywords": [
         "kyslik",
@@ -8,7 +8,7 @@
         "filter",
         "query-strings"
     ],
-    "homepage": "https://github.com/benjdl/laravel-filterable",
+    "homepage": "https://github.com/kyslik/laravel-filterable",
     "license": "MIT",
     "authors": [
         {
