@@ -1,5 +1,5 @@
 {
-    "name": "kyslik/laravel-filterable",
+    "name": "benjdl/laravel-filterable",
     "description": "Using URL query strings to filter Eloquent queries.",
     "keywords": [
         "kyslik",
@@ -24,9 +24,8 @@
         "illuminate/http": ">=7.0"
     },
     "require-dev": {
-        "laravel/framework": ">=7.0",
-        "orchestra/testbench": ">=5.0",
-        "phpunit/phpunit": ">=8.0"
+        "phpunit/phpunit": "*",
+        "orchestra/testbench": "*"
     },
     "autoload": {
         "psr-4": {
